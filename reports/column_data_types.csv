@@ -1,0 +1,22 @@
+,data_type
+Row ID,int64
+Order ID,str
+Order Date,str
+Ship Date,str
+Ship Mode,str
+Customer ID,str
+Customer Name,str
+Segment,str
+Country,str
+City,str
+State,str
+Postal Code,int64
+Region,str
+Product ID,str
+Category,str
+Sub-Category,str
+Product Name,str
+Sales,float64
+Quantity,int64
+Discount,float64
+Profit,float64

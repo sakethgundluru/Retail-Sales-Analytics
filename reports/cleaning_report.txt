@@ -1,0 +1,13 @@
+RETAIL SALES DATA CLEANING REPORT
+========================================
+Original rows: 9994
+Final rows: 9994
+Total columns: 21
+Duplicate records: 0
+Missing values: 0
+Negative sales: 0
+Invalid quantities: 0
+Invalid discounts: 0
+Invalid shipping dates: 0
+
+Data cleaning completed successfully.

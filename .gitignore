@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/

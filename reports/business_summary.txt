@@ -1,0 +1,14 @@
+
+RETAIL SALES ANALYTICS - BUSINESS SUMMARY
+
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Total Orders: 5,009
+Total Customers: 793
+Total Quantity: 37,873
+Average Order Value: $458.61
+Profit Margin: 12.47%
+
+Highest Sales Category: Technology
+Highest Profit Region: West
+Best Sales Month: 2017-11
